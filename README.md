@@ -8,23 +8,23 @@
     padding-left: 50%;
 ">~  Carol Burnett</em>
   <div>
-    <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width=60% height=50% align="middle">
+    <img align="center" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width=60% height=50% align="middle">
   </div>
   
 
 
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Ananyaa-20&style=flat-square" alt="Ananya"/><br></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=SwetaSharma7&style=flat-square" alt="Sweta"/><br></p>
 
 <div style='width:500px;
   background-color:yellow;
   text-align:center;
   vertical-align:middle;'>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaa-20&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananyaa-20&show_icons=true&count_private=true&theme=dark" alt="ananya" width=50% style="padding-bottom: 5%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetaSharma7&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwetaSharma7&show_icons=true&count_private=true&theme=dark" alt="Sweta" width=50% style="padding-bottom: 5%;">
 </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyaa-20&theme=dark" width=97% >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwetaSharma7&theme=dark" width=97% >
 <div>
   
 </div>

@@ -1,12 +1,12 @@
 
-# Ananya gupta &nbsp; <img src="https://thumbs.gfycat.com/DearestUnequaledCuscus-max-1mb.gif" width=100px height=100px ></p>
+# Sweta Sharma &nbsp; <img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif" width=100px height=100px ></p>
 
 <p>
   <em>
-   Always hope for the best, but keep living your life no matter what.<br></em>
+  When you have a dream, you've got to grab it and never let go.<br></em>
  <em style="
     padding-left: 50%;
-">~  Kate Anderson</em>
+">~  Carol Burnett</em>
   <div>
     <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width=60% height=50% align="middle">
   </div>
@@ -62,23 +62,13 @@
 
  
   
-  <a href="mailto:ananyagp2007@gmail.com">
+  <a href="mailto:swetasharma.naju99@gmail.com">
     <img align="left" alt="Gmail logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
-  <a href="https://www.instagram.com/ananya_gp_20/">
-    <img align="left" alt="Instagram Logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
   
-  <a href="https://github.com/Ananyaa-20/">
+  <a href="https://github.com/SwetaSharma7/">
     <img align='left' src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34px">
   </a>
-   <a href="https://discordapp.com/users/AnanyaGupta#9591">
-    <img align="left" alt="Discord Logo" width="34px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png"/>
-  </a>
-  <a href="http://www.twitter.com/Ananyaaa__20">
-    <img align="left" alt="Twitter Logo" width="34px" src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png"/>
-  </a>
-  
 
   </p>
